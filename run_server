@@ -1,0 +1,3 @@
+#!/bin/sh
+set -v
+exec pipenv run daphne server:StaticFileServer
