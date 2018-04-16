@@ -11,6 +11,7 @@ aiofiles = "*"
 daphne = "*"
 channels = "*"
 django = "*"
+aiohttp = "*"
 
 
 [dev-packages]
